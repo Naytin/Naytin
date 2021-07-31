@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" width="30px" src="./images/portfolio.png" alt="my portfolio"/>][website]
-[<img align="left" width="30px" src="./images/linkedIn.png" alt="linkedIn"/>][linkedIn]
+[<img align="left" width="30px" src="./images/linkedin.png" alt="linkedIn"/>][linkedIn]
 [<img align="left" width="30px" src="./images/telegram.png" alt="telegram"/>][telegram]
 [<img align="left" width="30px" src="./images/codewars.svg" alt="codewars"/>][codeWars]
 
