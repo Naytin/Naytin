@@ -7,8 +7,25 @@
 
 ### Connect with me:
 
-[<img align="left" width="22px" src="./images/portfolio.png" alt="my portfolio"/>][website]
+[<img align="left" width="30px" src="./images/portfolio.png" alt="my portfolio"/>][website]
+[<img align="left" width="30px" src="./images/linkedIn.png" alt="linkedIn"/>][linkedIn]
+[<img align="left" width="30px" src="./images/telegram.png" alt="telegram"/>][telegram]
+[<img align="left" width="30px" src="./images/codewars.svg" alt="codewars"/>][codeWars]
+
+
+<br/>
+
+### Languages and Tools:
+
+<img align="left" width="30px" src="./images/react.png" alt="react"/>
+<img align="left" width="30px" src="./images/js.png" alt="javascript"/>
+<img align="left" width="30px" src="./images/typescript.png" alt="typescript"/>
+<img align="left" width="30px" src="./images/html.png" alt="html"/>
+<img align="left" width="30px" src="./images/css.png" alt="css"/>
+<img align="left" width="30px" src="./images/sass.png" alt="sass"/>
 
 
 [website]: https://naytin.github.io/cv
-
+[linkedIn]: https://linkedin.com/in/volodymyrnikitin
+[codeWars]: https://www.codewars.com/users/Naytin
+[telegram]: https://t.me/Naytin_77
