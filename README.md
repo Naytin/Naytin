@@ -1,4 +1,4 @@
-### Hi, I'm NIKITIN VLADIMIR
+### Hi, I'm VLADIMIR
 
 ## I'm a Front-end Developer | React Developer
 - :computer: I love to write code, it is very interesting and exciting for me
