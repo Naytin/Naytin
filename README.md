@@ -1,4 +1,4 @@
-### Hi, I'm NIKITIN VLADIMIR
+### Hi, I'm VOLODYMYR
 
 ## I'm a Front-end Developer | React Developer
 - :computer: I love to write code, it is very interesting and exciting for me
@@ -25,7 +25,7 @@
 <img align="left" width="30px" src="./images/sass.png" alt="sass"/>
 
 
-[website]: https://naytin.github.io/cv
+[website]: https://nikitin-dev-naytin.vercel.app/
 [linkedIn]: https://linkedin.com/in/volodymyrnikitin
 [codeWars]: https://www.codewars.com/users/Naytin
 [telegram]: https://t.me/Naytin_77
