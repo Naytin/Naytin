@@ -25,7 +25,7 @@
 <img align="left" width="30px" src="./images/sass.png" alt="sass"/>
 
 
-[website]: https://nikitin-dev-naytin.vercel.app/
+[website]: https://nikitin-dev.vercel.app/
 [linkedIn]: https://linkedin.com/in/volodymyrnikitin
 [codeWars]: https://www.codewars.com/users/Naytin
 [telegram]: https://t.me/Naytin_77
